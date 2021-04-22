@@ -9,7 +9,7 @@ License: [MIT](./license.md)
 #### Моё первое задание — написать инструкцию для Git
 ### ***Cодержание:***
 
-1. Введение
+1. [Введение](./introduction.md)
 2. [git init](./init.md)
 3. [git add](./add.md)
 4. [git clone](./clone.md)
@@ -19,8 +19,8 @@ License: [MIT](./license.md)
 8. [git reset](./reset.md)
 9. [git pull](./pull.md)
 10. [git push](./push.md)
-11. [merge](./merge.md)
-12. [git add](./add.md)
+11. [git merge](./merge.md)
+12. [git branch](./branch.md)
 
 ---
  
